@@ -1,0 +1,18 @@
+.login-wrapper {
+  height: 100vh;
+  width: 100%;
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-container {
+  width: 60%;
+  height: 70%;
+  background-color: #eee;
+  box-shadow: 5px 5px 10px;
+  display: flex;
+}
+.login {
+  background-image: url("../../assets/Invoice.jpg");
+}
